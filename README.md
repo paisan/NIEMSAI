@@ -19,4 +19,4 @@ Services Decision Makings
 ## ประเภทของการวิจัย 
 การวิจัยประยุกต์ (Applied Research)
 
-# บทสรุปข้อเสนอโครงการ
+
